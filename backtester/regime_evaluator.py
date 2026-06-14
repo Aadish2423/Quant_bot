@@ -1,3 +1,6 @@
+"""
+regime_evaluator.py
+───────────────────
 Slices trade logs and equity curves by market regime and computes
 per-regime performance metrics.
 
